@@ -1,14 +1,14 @@
-schedule my plugs
-switch off my plugs
-switch off my plugs from 3 to 5
-switch on my plugs
-schedule p1
-switch off p1
-switch on p1
-switch off p1 and p2 
-switch off p1 from 1:30 to 2:00
-switch off p1, p2 and p5 from 1:30 to 2:00
-switch on p1 from 11 to 12 and switch off p2 from 1 to 3
-switch off p1 from 11 to 2, p2 from 2 to 5
-switch on p1 from 11 to 2, p2 from 2 to 5
+schedule my devices
+switch off my devices
+switch off my devices from 3 to 5
+switch on my devices
+schedule d1
+switch off d1
+switch on d1
+switch off d1 and d2 
+switch off d1 from 1:30 to 2:00
+switch off d1, d2 and d5 from 1:30 to 2:00
+switch on d1 from 11 to 12 and switch off d2 from 1 to 3
+switch off d1 from 11 to 2, d2 from 2 to 5
+switch on d1 from 11 to 2, d2 from 2 to 5
 
