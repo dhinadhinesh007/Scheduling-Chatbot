@@ -6,9 +6,9 @@ import json
 SOCKET_DELAY = 1
 
 # slackbot environment variables
-SLACK_TOKEN='xoxb-331486377281-URF7RvcZNdjKuUksWu6S2KpZ';
+SLACK_TOKEN='';
 SLACK_NAME='testbot'
-SLACK_ID = 'U9REAB389'
+SLACK_ID = ''
 slack_client = slackclient.SlackClient(SLACK_TOKEN)
 connection =pymysql.connect(host='localhost',user='root', password='',db='smartplug',cursorclass=pymysql.cursors.DictCursor);
 
